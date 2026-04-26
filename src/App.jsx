@@ -9,12 +9,12 @@ A **Markdown viewer PWA** — install it on your Android home screen and open lo
 
 ## Features
 
-- [x] Syntax highlighted code blocks
-- [x] Scrollable tables
-- [x] Dark / Light theme
-- [x] Works offline
-- [x] Open local .md files
-- [x] Installable on Android
+  ✅ Syntax highlighted code blocks
+  ✅ Scrollable tables
+  ✅ Dark / Light theme
+  ✅ Works offline
+  ✅ Open local .md files
+  ✅ Installable on Android
 
 ---
 
